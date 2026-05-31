@@ -25,7 +25,7 @@
 
 ```bash
 $ whoami
-> Goku — Cybersecurity Professional
+> Goggu — A Cybersecurity Professional
 ```
 
 ```yaml
