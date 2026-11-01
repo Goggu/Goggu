@@ -45,7 +45,7 @@ available  : true  # Open to opportunities
 
 | 🛡️ Blue Team | ⚔️ Red Team | ☁️ Cloud Security |
 |:---:|:---:|:---:|
-| SIEM / Log Analysis | Penetration Testing | AWS Security |
+| SIEM / Log Analysis | Penetration Testing | AWS IAM |
 | Incident Response | Vulnerability Assessment | Cloud SIEM |
 | Threat Intelligence | Social Engineering |
 | SOC Operations | CTF Challenges |
