@@ -46,10 +46,10 @@ available  : true  # Open to opportunities
 | 🛡️ Blue Team | ⚔️ Red Team | ☁️ Cloud Security |
 |:---:|:---:|:---:|
 | SIEM / Log Analysis | Penetration Testing | AWS Security |
-| Incident Response | Vulnerability Assessment | Azure Sentinel |
-| Threat Intelligence | Social Engineering | GCP Security |
-| SOC Operations | CTF Challenges | Cloud IAM |
-| Malware Analysis | Exploit Research | Cloud SIEM |
+| Incident Response | Vulnerability Assessment | Cloud SIEM |
+| Threat Intelligence | Social Engineering |
+| SOC Operations | CTF Challenges |
+| Malware Analysis | Exploit Research | 
 
 </div>
 
