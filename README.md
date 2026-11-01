@@ -31,7 +31,7 @@ $ whoami
 ```yaml
 name       : "Gokul Krishna"
 location   : "Kerala, India"
-role       : "Threat hunter | Security Engineer | Offensive Penetration Tester"
+role       : "Threat hunter | Security Engineer | SOC | Penetration Tester"
 currently  : "Malware analysis, hunting threats, analyzing logs, hardening systems"
 learning   : ["Advanced SIEM", "Malware Analysis", "Cloud Security"]
 available  : true  # Open to opportunities
