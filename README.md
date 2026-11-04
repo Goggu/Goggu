@@ -58,7 +58,7 @@ available  : true  # Open to opportunities
 ## 🔧 Tools & Technologies
 
 ### 🛡️ Defense & Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Splunk]
 ![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AAFE4?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
