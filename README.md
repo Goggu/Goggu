@@ -58,11 +58,11 @@ available  : true  # Open to opportunities
 ## 🔧 Tools & Technologies
 
 ### 🛡️ Defense & Monitoring
-![Splunk]
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AAFE4?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MS Defender](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
+![MS Defender](https://img.shields.io/badge/MS_Defender-CC0000?style=for-the-badge&logoColor=white)
 
 ### ⚔️ Offensive & Testing
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -75,12 +75,12 @@ available  : true  # Open to opportunities
 ![Windows](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS(basics)](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS(basics)](https://img.shields.io/badge/AWS(basics)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🔤 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![powershell(basic)](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![powershell(basic)](https://img.shields.io/badge/PowerShell(basic)-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
