@@ -100,21 +100,6 @@ available  : true  # Open to opportunities
 
 ---
 
-
-## 📖 Currently Learning
-
-```python
-learning_path = {
-    "SIEM"          : ["Advanced Splunk SPL", "Sigma Rules", "YARA Rules"],
-    "Threat Intel"  : ["MITRE ATT&CK Framework", "OpenCTI", "OSINT"],
-    "Malware"       : ["Reverse Engineering Basics", "Dynamic Analysis"],
-    "Cloud"         : ["AWS Security Specialty", "Azure Sentinel"],
-    "Offensive"     : ["Web App Pentesting", "System Pentesting basics", "Buffer Overflow Basics"]
-}
-```
-
----
-
 ## 📡 Connect With Me
 
 <div align="center">
